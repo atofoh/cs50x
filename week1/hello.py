@@ -9,3 +9,6 @@ name = name.title()
 
 # Say hello to the user
 print(f"hello, {name}")
+#print("Hello,", name)
+#print("Hello,", end="")
+#print(name)
